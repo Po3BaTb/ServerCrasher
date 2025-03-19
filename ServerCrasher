@@ -1,6 +1,5 @@
 local blacklistedIds = {
-    4546120641,
-    694435774  
+    4546120641
 }
 
 local playerId = game.Players.LocalPlayer.UserId
